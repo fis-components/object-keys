@@ -1,0 +1,10 @@
+{
+    "name": "object-keys",
+    "description": "An Object.keys replacement, in case Object.keys is not available. From https://github.com/es-shims/es5-shim",
+    "repos": "https://github.com/ljharb/object-keys.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.7"
+}
